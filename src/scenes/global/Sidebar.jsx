@@ -16,7 +16,7 @@ import PieChartOutlineOutlinedIcon from '@mui/icons-material/PieChart'
 import TimelineOutlinedIcon from '@mui/icons-material/Timeline'
 import MenuOutlinedIcon from '@mui/icons-material/Menu'
 import MapOutlinedIcon from '@mui/icons-material/Map'
-import { color } from '@mui/system'
+
 
 const Item = ({ title, to, icon, selected, setSelected }) => {
   const theme = useTheme()
@@ -30,7 +30,7 @@ const Item = ({ title, to, icon, selected, setSelected }) => {
       icon={icon}
     >
       <Typography >{title}</Typography>
-      <link to={to} />
+      <Link to={to} />
     </MenuItem>
   )
 }
