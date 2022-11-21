@@ -147,7 +147,7 @@ style={{
             
              <Item 
             title={"Profile form"}
-            to={'form'}
+            to={'/form'}
             icon={<PersonOutlinedIcon/>}
             selected={selected}
             setSelected = {setSelected}      
