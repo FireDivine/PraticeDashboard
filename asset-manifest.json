@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PraticeDashboard/static/css/main.093ec934.css",
+    "main.js": "/PraticeDashboard/static/js/main.6135a7a9.js",
+    "index.html": "/PraticeDashboard/index.html",
+    "main.093ec934.css.map": "/PraticeDashboard/static/css/main.093ec934.css.map",
+    "main.6135a7a9.js.map": "/PraticeDashboard/static/js/main.6135a7a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.093ec934.css",
+    "static/js/main.6135a7a9.js"
+  ]
+}
